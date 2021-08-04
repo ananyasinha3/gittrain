@@ -1,0 +1,29 @@
+[1mdiff --git a/Bioenergy1.docx b/Bioenergy1.docx[m
+[1mnew file mode 100644[m
+[1mindex 0000000..bc337cd[m
+[1m--- /dev/null[m
+[1m+++ b/Bioenergy1.docx[m
+[36m@@ -0,0 +1,13 @@[m
+[32m+[m[32m Bioenergy[m
+[32m+[m[32m  Non-renewable resources like fossil fuels have a significant negative impact on the environment. The increase in its price as well as its contribution to climate change has led to a switch from fossil fuels to sustainable and environment-friendly biofuels [1]. Biofuels refers to the solid, liquid and gaseous fuels derived from the biomass of living organisms [1,2]. Biomass is a significant contributor to the renewable energy utilization globally as well as in the developing countries but despite its advantages over fossil fuels it is not widely used at a commercial level due to miscellaneous limitations.[3][m
+[32m+[m[32m Biofuel[m
+[32m+[m[32m  Biofuels are considered as a replacement of fossil fuel due to its adverse environmental effects. Biofuels have been categorized on the basis of their raw material required for production. One of the common types of biofuels is biohydrogen. Biohydrogen is produced from microalgae and microbes. Among the various approaches of production, the most sustainable approach is the production of molecular hydrogen by the culture of photosynthetic microorganisms. Regardless of its use whether it is in an internal combustion engine or to power fuel cells the byproduct is only water [1].[m
+[32m+[m[32m Challenges faced in Production[m
+[32m+[m[32m   Biofuel is sustainable but it has its limitations as well. The efficiency and cost being the major factors. The systems currently being used for production do not yield the desired amount. When compared to the outcome and production of the unsustainable sources, the production of biohydrogen is costlier. These factors along with the other environmental factors like light intensity, level of oxygen and CO2 assimilation are the main challenges in the efficient production of biohydrogen [1].[m
+[32m+[m[32m   Another one of the prime challenges is the bulk cultivation of microalgae which requires water, nitrogen and phosphorous. The production of algae is in turn proving to use up more energy and releasing more greenhouse gases than it can cut down, hence it does not have a major positive impact on the existing climatic conditions [2].[m
+[32m+[m[32m   Biofuels have also triggered the food vs fuel debate. Certain trends showcase that biofuel and food prices are correlated since there are food-crops based biofuels being produced. This correlation proves that it can lead to disrupting the current food scenario and as a result cause a hike in food prices as well [2].[m
+[32m+[m[32m Biomass Supply Chain Management[m
+[32m+[m[32m  Biomass to bioenergy conversion depends upon several factors. It varies according to its availability based on the geographical characteristics. So, it is essential to decide upon the conversion route of the biomass beforehand. This is where biomass supply chain management comes into play. It makes the conversion feasible. Biomass supply chain management comprises of several processes like biomass harvesting, collection, pretreatment, transportation and storage. These processes however have their limitations [3].[m
+[32m+[m[32m  In harvesting biomass, the weather plays a vital role. Since the climate is ever-changing the yield is not constant. In order to overcome this a mixture of different biomasses is used but it might compromise the quality of the end product. Harvested biomass is also stored to provide a constant supply. The methods currently in use for collection of biomass and transportation, delivery from the field to the power generation unit are not very cost effective [3].[m
+[32m+[m[32m Biomass Gasification[m
+[32m+[m[32m  Biomass gasification converts solid biomass fuel to combustible fuel through a series of thermochemical processes. The combustible fuel produced can be used for power generation. Gasification is an old power generation technology but there is a lot of scope for improvement. Due to its shortcomings, it is not being used widely at a commercial level. There are several factors that need to be considered to get the desired power output. The gas obtained at the end of gasification cannot be used as it is and it needs to be conditioned in order to use it without causing any harm. If it is used without conditioning it can cause serious damages. The cleaning systems are frail and cost intensive which in turn increases the overall cost of power generation [3].[m
+[1mdiff --git a/README.txt b/README.txt[m
+[1mindex f15bf0e..68d3c7c 100644[m
+[1m--- a/README.txt[m
+[1m+++ b/README.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-Enter text here[m
+\ No newline at end of file[m
+[32m+[m[32mEnter text here[m
+[32m+[m[32mAnd here[m
+\ No newline at end of file[m
